@@ -42,6 +42,7 @@
     "website": "11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015"
   },
   "course_title": "Development, Planning, and Implementation: The Dialectic of Theory and Practice",
+  "hide_download": true,
   "course_description": "This is an advanced seminar that will analyze the effectiveness of development and planning theories from the perspective of practitioners who implement projects and policies based on such theories. The ultimate goal is to create new planning sensibilities, which theorize from practice, not the other way around.\n",
   "department_numbers": [
     "11"
@@ -52,6 +53,7 @@
     "content": "caf33f21-8fbf-e835-a17b-085a61862cda",
     "website": "11-s940-development-planning-and-implementation-the-dialectic-of-theory-and-practice-fall-2015"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],

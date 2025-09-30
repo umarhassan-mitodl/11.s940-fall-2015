@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, learning objectives, course format and structure, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Lectures: 1 session / week, 2 hours / session
 Course Overview
 ---------------
 
-This is an advanced seminar that will analyze the effectiveness of development and planning theories from the perspective of practitioners who implement projects and policies based on such theories. The course will be organized around eleven implementation puzzles / course topics, which should be considered for re-theorizing both developmental and planning processes. The course will begin with a review of conventional theories of Development, Planning, and Implementation to set the stage for critical reviews of how such theories actually unfolded in practice. Then, drawing on the implementation experiences of projects and policies, the conventional theories will be revised particularly to fit organizational constraints which influence implementation outcomes. The ultimate goal is to create new planning sensibilities, which theorize from practice, not the other way around. Students will be required to focus on any one of the twelve implementation puzzles discussed in the class and write a paper on the multiple facets of any such puzzle. This kind of an understanding can lead to re-conceptualization of the developmental process, as nations develop, cities grow, and planning is practiced by professionals who do not conceptualize the process as either "top-down" or "bottom-up", but seek an understanding of the connection between the two levels. Since the central purpose of the course is to cultivate a conversation between theory and practice, this class will be open to both graduate students and {{% resource_link "52852738-f1d7-49d1-a0ac-ff819cca673b" "Special Program for Urban and Regional Studies (SPURS) / Humphrey Fellows" %}}.
+This is an advanced seminar that will analyze the effectiveness of development and planning theories from the perspective of practitioners who implement projects and policies based on such theories. The course will be organized around eleven implementation puzzles / course topics, which should be considered for re-theorizing both developmental and planning processes. The course will begin with a review of conventional theories of Development, Planning, and Implementation to set the stage for critical reviews of how such theories actually unfolded in practice. Then, drawing on the implementation experiences of projects and policies, the conventional theories will be revised particularly to fit organizational constraints which influence implementation outcomes. The ultimate goal is to create new planning sensibilities, which theorize from practice, not the other way around. Students will be required to focus on any one of the twelve implementation puzzles discussed in the class and write a paper on the multiple facets of any such puzzle. This kind of an understanding can lead to re-conceptualization of the developmental process, as nations develop, cities grow, and planning is practiced by professionals who do not conceptualize the process as either "top-down" or "bottom-up", but seek an understanding of the connection between the two levels. Since the central purpose of the course is to cultivate a conversation between theory and practice, this class will be open to both graduate students and [Special Program for Urban and Regional Studies (SPURS) / Humphrey Fellows](http://spurs.mit.edu/).
 
 Prerequisites
 -------------
@@ -37,7 +39,7 @@ Course Format & Structure
 
 The classes will start with lecture on each of the debates, followed by a seminar style discussion, in which students are expected to participate actively. The students will need to read the assigned material in advance as a way to prepare for an extensive in-class discussion. The weekly meetings will be organized around the twelve implementation debates, with the co-instructors taking the lead.
 
-Students will be required to attend four panel discussions at {{% resource_link "3d56cdda-79b3-43d4-be1a-4d9bb1e0b462" "The Department of Urban Studies & Planning (DUSP)" %}} on issues of implementation by leading scholars in the field.
+Students will be required to attend four panel discussions at [The Department of Urban Studies & Planning (DUSP)](https://dusp.mit.edu/) on issues of implementation by leading scholars in the field.
 
 We will also use online resources for information sharing, and to promote discussions on the challenges of implementation development policies and projects. These include the course website and group emails, as well as one alternative online platform created exclusively for the class. Students will decide collectively in the beginning of the semester their favorite option, such as a Facebook group, or a class blog. The engagement with the class through this alternative platform will be voluntary, but active participants will receive extra credit toward their final grade. All activities will be guided by appropriate codes of conduct and privacy procedures.
 
